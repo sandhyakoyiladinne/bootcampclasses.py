@@ -1,0 +1,22 @@
+/* Required */
+/* input:required{
+    background-color: aqua;
+} */
+
+/* Disabled directly applied by html */
+
+/* valid/invalid*/
+/* input:valid{
+    background-color: palevioletred; 
+}
+input:invalid{
+    background-color: chartreuse;
+} */
+
+/* in-range,Out-of-range*/
+/* input:in-range{
+    background-color: aquamarine;
+}
+input:out-of-range{
+    background-color: brown;
+} */

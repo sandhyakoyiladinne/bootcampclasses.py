@@ -1,0 +1,15 @@
+.parent{
+    background-color: aqua;
+    border: 1px solid red;
+}
+.para{
+    background-color: aqua;
+    border: 1px solid red;
+   
+}
+.myname{
+    /* display: inline-block; */
+    background-color: aqua;
+    border: 1px solid red;
+    height: 100px;
+}

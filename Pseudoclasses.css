@@ -1,0 +1,38 @@
+/* :first-child */
+/* div p:first-child{
+    color: aqua;
+}  */
+
+/* :last-child */
+/* div p:{
+    color: aqua;
+}  */
+
+/* :nth-child() */
+/* div p:nth-child(1n){
+    color: aqua;
+} */
+/* div p:nth-child(2n){
+    color: aqua;
+}  */
+/* div p:nth-child(2n+1){
+    color: aqua;
+}  */
+
+/* :nth-last-child() */
+/* div p:nth-last-child(1){
+    color: aqua;
+}  */
+/* div p:nth-last-child(2){
+    color: aqua;
+}  */
+
+/* :empty */
+/* div:empty{
+    border: 1px solid blue;
+} */
+
+/* :not() */
+p:not(.abc){
+    color: aqua;
+}

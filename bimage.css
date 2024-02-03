@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    box-sizing: border-box;
+
+}
+
+/* p{
+    color: red;
+} */
+
+.parent_div{ 
+    background-image: url(https://t4.ftcdn.net/jpg/02/69/18/47/240_F_269184784_4pnmyHf1jB4uXvoM0ggMNSWAOagpb8bW.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+ } 
+
+/* .parent{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+   }
+   
+   .child{
+       width: 160px;
+       height: 160px;
+       border: 10px solid green;
+       padding: 10px;
+   } */

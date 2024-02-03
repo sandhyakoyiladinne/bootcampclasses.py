@@ -1,0 +1,6 @@
+ul li{
+    color: blue;
+}
+.parent > li{
+    color: greenyellow;
+}
