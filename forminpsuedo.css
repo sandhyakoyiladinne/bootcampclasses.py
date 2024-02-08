@@ -20,3 +20,16 @@ input:invalid{
 input:out-of-range{
     background-color: brown;
 } */
+
+/* Root */
+/* :root{
+    --main-color:pink;
+    --border-sandhya: 1px black;
+}
+.submit_button{
+    color: var(--main-color);
+    border: var(--border-sandhya);
+}
+p{
+    color: var(--main-color);
+} */
