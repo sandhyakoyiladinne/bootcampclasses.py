@@ -1,0 +1,30 @@
+.parent{
+    background-color: aqua;
+    border: 8px solid black;
+    /* position: relative;
+    bottom: 1px; */
+    height: 30vh; 
+}
+.child_one{
+    background-color: crimson;
+    /* position: static; */
+    /* position: relative; */
+    /* top: 30px; */
+   
+}
+.child_two{
+    background-color: blueviolet;
+    /* position: absolute; */
+    /* position: fixed; */
+    /* position: sticky;*/
+    /* width: 100px;
+    height: 50px;
+    bottom: 450px;
+    bottom: 0px;  
+} */
+.child_three{
+    background-color: darksalmon;
+    
+    /* position: sticky;
+    top: 0px; */
+}
