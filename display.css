@@ -1,0 +1,38 @@
+/* p{
+    color: aqua;
+} */
+
+/* #parent{
+    color: blue;
+} */
+
+/* .para{
+    color: chartreuse;
+} */
+
+/* #parent .para a:hover{
+    color: palevioletred;
+} */
+
+
+/* .wrapper{
+    border: 1px solid red;
+    height: 300px;
+} */
+/* .child-one{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    display: none; 
+    visibility: hidden; 
+}  */
+/* .child-two{
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+}
+.child-three{
+    height: 100px;
+    width: 100px;
+    background-color:lawngreen;
+}  */ 
