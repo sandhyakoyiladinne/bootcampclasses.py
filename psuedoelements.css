@@ -1,0 +1,31 @@
+/* To apply style for First lettet */
+/* p::first-letter{
+    background-color:pink;
+} */
+
+/* TO apply style to firstline */
+/* p::first-line{
+    background-color: aqua;
+} */
+
+/* To apply style for perticular selected area */
+/* p::selection{
+    background-color: crimson;
+} */
+
+/* placeholder */
+input::placeholder{
+    color: greenyellow;
+}
+
+/* To add content before the paragraph starting */
+/* p::before{
+    content: "Hi! Everyone";
+    color: fuchsia;
+} */
+
+/* To add content before the paragraph ending */
+/* p::after{
+    content: "This is the conclution.";
+    color: deeppink;
+} */
